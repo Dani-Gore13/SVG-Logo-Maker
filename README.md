@@ -28,6 +28,7 @@ This project is licensed under the MIT license. See the [LICENSE](https://openso
 ## Links
 
 - Demo Video: https://drive.google.com/file/d/1g8l5QOEBtsn-Q49c77ERyACS79MoE7C0/view
+- GitHub Repo: https://github.com/Dani-Gore13/SVG-Logo-Maker/tree/main
 
 ## Tests
 
