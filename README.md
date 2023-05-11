@@ -4,7 +4,7 @@
 
 ## Description
 
-This application uses Node.js to create logo using any three charaters of you choice.
+This application uses Node.js to create logo using any three charaters of your choice.
 
 ## Table of Contents
 
